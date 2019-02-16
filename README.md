@@ -11,5 +11,8 @@ Early data was collected by technicians using mercury thermometers, where any va
 
 The Berkeley Earth Surface Temperature Study combines 1.6 billion temperature reports from 16 pre-existing archives. It is nicely packaged and allows for slicing into interesting subsets (for example by country). They publish the source data and the code for the transformations they applied. They also use methods that allow weather observations from shorter time series to be included, meaning fewer observations need to be thrown away.
 
+## Dataset Download
+
+We will upload the dataset to be used during the challenge on Friday, February 22nd.
 
 [Climate Action]: https://www.un.org/sustainabledevelopment/climate-change-2/
