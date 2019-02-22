@@ -15,4 +15,20 @@ The Berkeley Earth Surface Temperature Study combines 1.6 billion temperature re
 
 We will upload the dataset to be used during the challenge on Friday, February 22nd.
 
+## Team Repository Links
+[CA-C1]  
+[CA-C2]  
+[CA-C3]   
+[CA-P1]  
+[CA-P2]  
+[CA-P3]  
+[CA-P4] 
+
+[CA-C1]: https://github.com/CharlestonDigitalHubHackathon/CA-C1
+[CA-C2]: https://github.com/CharlestonDigitalHubHackathon/CA-C2
+[CA-C3]: https://github.com/CharlestonDigitalHubHackathon/CA-C3
+[CA-P1]: https://github.com/CharlestonDigitalHubHackathon/CA-P1
+[CA-P2]: https://github.com/CharlestonDigitalHubHackathon/CA-P2
+[CA-P3]: https://github.com/CharlestonDigitalHubHackathon/CA-P3
+[CA-P4]: https://github.com/CharlestonDigitalHubHackathon/CA-C4
 [Climate Action]: https://www.un.org/sustainabledevelopment/climate-change-2/
