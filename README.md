@@ -30,5 +30,5 @@ We will upload the dataset to be used during the challenge on Friday, February 2
 [CA-P1]: https://github.com/CharlestonDigitalHubHackathon/CA-P1
 [CA-P2]: https://github.com/CharlestonDigitalHubHackathon/CA-P2
 [CA-P3]: https://github.com/CharlestonDigitalHubHackathon/CA-P3
-[CA-P4]: https://github.com/CharlestonDigitalHubHackathon/CA-C4
+[CA-P4]: https://github.com/CharlestonDigitalHubHackathon/CA-P4
 [Climate Action]: https://www.un.org/sustainabledevelopment/climate-change-2/
