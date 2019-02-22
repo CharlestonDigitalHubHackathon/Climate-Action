@@ -11,9 +11,31 @@ Early data was collected by technicians using mercury thermometers, where any va
 
 The Berkeley Earth Surface Temperature Study combines 1.6 billion temperature reports from 16 pre-existing archives. It is nicely packaged and allows for slicing into interesting subsets (for example by country). They publish the source data and the code for the transformations they applied. They also use methods that allow weather observations from shorter time series to be included, meaning fewer observations need to be thrown away.
 
-## Dataset Download
+## Dataset Download and Information
+| Link                     | Description |
+| ------------------------ | ----------- |
+| [Dataset and DB Backups] | This links you to a Google Drive where all of the data CSVs have been placed along with a MySQL and PostgresSQL backup. |
+| [Berkeley Earth]         | A link to the study mentioned above. |
 
-We will upload the dataset to be used during the challenge on Friday, February 22nd.
+Global Land and Ocean-and-Land Temperatures (GlobalTemperatures.csv): 
+
+| Column Name                                | Description |
+| ------------------------------------------ | ----------- |
+|  Date                                      | starts in 1750 for average land temperature and 1850 for max and min land temperatures and global ocean and land temperatures |
+| LandAverageTemperature                     | global average land temperature in celsius |
+| LandAverageTemperatureUncertainty          | the 95% confidence interval around the average |
+| LandMaxTemperature                         |  global average maximum land temperature in celsius |
+|  LandMaxTemperatureUncertainty             | the 95% confidence interval around the maximum land temperature |
+| LandMinTemperature                         |  global average minimum land temperature in celsius |
+| LandMinTemperatureUncertainty              | the 95% confidence interval around the minimum land temperature |
+| LandAndOceanAverageTemperature             | global average land and ocean temperature in celsius |
+| LandAndOceanAverageTemperatureUncertainty  | the 95% confidence interval around the global average land and ocean temperature |
+
+Other files include:  
+- Global Average Land Temperature by Country (GlobalLandTemperaturesByCountry.csv)
+- Global Average Land Temperature by State (GlobalLandTemperaturesByState.csv)
+- Global Land Temperatures By Major City (GlobalLandTemperaturesByMajorCity.csv)
+- Global Land Temperatures By City (GlobalLandTemperaturesByCity.csv)
 
 ## Team Repository Links
 [CA-C1]  
@@ -32,3 +54,5 @@ We will upload the dataset to be used during the challenge on Friday, February 2
 [CA-P3]: https://github.com/CharlestonDigitalHubHackathon/CA-P3
 [CA-P4]: https://github.com/CharlestonDigitalHubHackathon/CA-P4
 [Climate Action]: https://www.un.org/sustainabledevelopment/climate-change-2/
+[Dataset and DB Backups]: https://drive.google.com/drive/folders/1EW0YP1whln-wppTYMP4CeXOVf1os5SI7?usp=sharing
+[Berkeley Earth]: http://berkeleyearth.org/about/
